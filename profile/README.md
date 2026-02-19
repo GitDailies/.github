@@ -20,12 +20,6 @@ Visualize review workloads across your org. Spot the repos or teams where PRs pi
 ## Automatic daily reports
 Send a daily summary of team activity so everyone is in sync. See PRs opened and closed, code committed, and reviews submitted. Team members also get a personalized daily report of their open PRs, waiting reviews, and triggered alerts.
 
-## Set up in minutes
-Install GitDailies from the GitHub Marketplace. Choose which repos to follow. Get metrics, alerts, and daily summaries immediately. No code changes required.
-
-## Custom plans available
-Plans with usage-based pricing, unlimited repos, API access, and multiple GitHub orgs are available at GitDailies.com.
-
 ## How to get GitDailies
 
 You can install the GitDailies App for free at the
