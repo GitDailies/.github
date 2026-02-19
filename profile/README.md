@@ -1,31 +1,30 @@
 # Welcome to the Home of GitDailies!
 
 ## What is GitDailies?
+[GitDailies](https://GitDailies.com) helps your team ship better code, faster
 
-GitDailies is a GitHub App that helps you ship better software, faster.
+MongoDB's teams [reduced PR review times by up to 54%](https://gitdailies.com/articles/mongodb-gitdailies-case-study/).
 
-## What Problem Does It Solve?
+## Stop PRs going stale
+Set custom time limits for PR reviews, PR age, or PR inactivity - by team, repo, or label. When a PR crosses a threshold, GitDailies alerts the right person in Slack (with an @mention), email, or Telegram.
 
-Working in a busy software team it can be hard to stay up to date with what your team has done
-each day.
+## Full PR metrics and DORA metrics
+Tracked automatically. Powered by your GitHub data. No manual entry, no tagging, no workflow changes. Broken down by team, repo, label, or time period.
 
-You have a basic choice between being overwhelmed with too much information, or switching off
-notifications and potentially missing important stuff. It's also hard to spot trends over time.
+## Custom alerts for the events that matter
+Use the Expression Builder to define exactly when alerts fire: stale PRs, changes to critical files, failed Actions, waiting review requests, and more. Each team sets their own rules, their own thresholds, and their own notification channels.
 
-## How GitDailies Helps
+## See who's overloaded and where work is stuck
+Visualize review workloads across your org. Spot the repos or teams where PRs pile up. Compare trends week over week so you can catch problems early, not after they've already caused delays.
 
-GitDailies fixes this using a combination of approaches:
+## Automatic daily reports
+Send a daily summary of team activity so everyone is in sync. See PRs opened and closed, code committed, and reviews submitted. Team members also get a personalized daily report of their open PRs, waiting reviews, and triggered alerts.
 
-* **Automatic Activity Reports** are the perfect complement to your standups. Make your meetings
-data-driven, and more efficient.
+## Set up in minutes
+Install GitDailies from the GitHub Marketplace. Choose which repos to follow. Get metrics, alerts, and daily summaries immediately. No code changes required.
 
-* **Pull Request Metrics** reveal bottlenecks in your workflow and ensure feedback loops are effective.
-
-* **Highly Customizable Alerts** replace distracting GitHub notifications. Get alerts for _exactly_
-the things that are important to you.
-
-* **Welfare Alerts** help prevent team burnout. Get notified if someone hasn’t pushed code for a 
-while, so you can reach out and offer assistance.
+## Custom plans available
+Plans with usage-based pricing, unlimited repos, API access, and multiple GitHub orgs are available at GitDailies.com.
 
 ## How to get GitDailies
 
