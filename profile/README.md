@@ -24,9 +24,6 @@ data-driven, and more efficient.
 * **Highly Customizable Alerts** replace distracting GitHub notifications. Get alerts for _exactly_
 the things that are important to you.
 
-* **Welfare Alerts** help prevent team burnout. Get notified if someone hasn’t pushed code for a 
-while, so you can reach out and offer assistance.
-
 ## How to get GitDailies
 
 You can install the GitDailies App for free at the
