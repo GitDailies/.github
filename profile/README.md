@@ -6,7 +6,7 @@
 MongoDB's teams [reduced PR review times by up to 54%](https://gitdailies.com/articles/mongodb-gitdailies-case-study/).
 
 ## Stop PRs going stale
-Set custom time limits for PR reviews, PR age, or PR inactivity - by team, repo, or label. When a PR crosses a threshold, GitDailies alerts the right person in Slack (with an @mention), email, or Telegram.
+Set custom time limits for PR reviews, PR age, or PR inactivity - by team, repo, or label. When a PR crosses a threshold, GitDailies alerts the right person in Slack (with a @mention), email, or Telegram.
 
 ## Full PR metrics and DORA metrics
 Tracked automatically. Powered by your GitHub data. No manual entry, no tagging, no workflow changes. Broken down by team, repo, label, or time period.
